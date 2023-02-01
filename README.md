@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... sharing, learning, helping, and growing. 
 - 🌱 I’m currently learning ...too much. 
 - 💞️ I’m looking to collaborate on ...anything. 
-- 📫 How to reach me ...2484455475
+- 📫 How to reach me ...erik.mishoe@gmail.com
 
 <!---
 Ericwithak/Ericwithak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
